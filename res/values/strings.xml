@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AccWithFourier</string>
+    <string name="Start">Start</string>
+    <string name="Stop">Stop</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Read">Read</string>
+    <string name="Status">Status</string>
+    <string name="info">Enter name(left) and number(right) below</string>
+    <string name="Exit">Exit</string>
+    <string name="Complete">lets rumbleeeeeeee</string>
+    <string name="number">num</string>
+    <string name="letter">letter</string>
+    <string name="hrz"></string>
+
+</resources>
