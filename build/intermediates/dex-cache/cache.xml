@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\johnBOT\Android projects\AccWithFourier\libs\jtransforms-2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9e52124b670340d47844a734e36765c3bc11b7f3">
+        <dex dex="C:\Users\johnBOT\Android projects\AccWithFourier\build\intermediates\pre-dexed\debug\jtransforms-2.4_bfd988dfba8b66bbe2ff3d5624b8d807a570ca3a.jar" />
+    </item>
+    <item
+        jar="C:\Users\johnBOT\Android projects\AccWithFourier\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\johnBOT\Android projects\AccWithFourier\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_847be71155f1cc558a5f6c0ea98d2b6ab567336c.jar" />
+    </item>
+
+</items>
